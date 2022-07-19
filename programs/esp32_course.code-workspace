@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "led_blink",
+			"path": "gpio\\led_blink"
+		},
+		{
+			"name": "i2c_scanner",
+			"path": "i2c\\i2c_scanner"
+		},
+		{
+			"name": "i2c_oled_display_name",
+			"path": "i2c\\i2c_oled_display_name"
+		},
+		{
+			"name": "i2c_real_time_clock",
+			"path": "i2c\\i2c_real_time_clock"
+		},
+		{
+			"name": "test_nrf",
+			"path": "..\\..\\..\\..\\programs\\zephyr\\nrf\\test_nrf"
+		}
+	],
+	"settings": {
+		"nrf-connect.toolchain.path": "${nrf-connect.toolchain:1.7.1}"
+	}
+}
