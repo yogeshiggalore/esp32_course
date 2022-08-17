@@ -19,6 +19,30 @@
 		{
 			"name": "test_nrf",
 			"path": "..\\..\\..\\..\\programs\\zephyr\\nrf\\test_nrf"
+		},
+		{
+			"name": "multi_led_blink",
+			"path": "gpio\\multi_led_blink"
+		},
+		{
+			"name": "switch_input",
+			"path": "gpio\\switch_input"
+		},
+		{
+			"name": "multi_switch_input",
+			"path": "gpio\\multi_switch_input"
+		},
+		{
+			"name": "switch_interrupt",
+			"path": "interrupt\\switch_interrupt"
+		},
+		{
+			"name": "switch_debounce",
+			"path": "interrupt\\switch_debounce"
+		},
+		{
+			"name": "multi_switch_interrupt",
+			"path": "interrupt\\multi_switch_interrupt"
 		}
 	],
 	"settings": {
