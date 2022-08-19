@@ -17,10 +17,6 @@
 			"path": "i2c\\i2c_real_time_clock"
 		},
 		{
-			"name": "test_nrf",
-			"path": "..\\..\\..\\..\\programs\\zephyr\\nrf\\test_nrf"
-		},
-		{
 			"name": "multi_led_blink",
 			"path": "gpio\\multi_led_blink"
 		},
@@ -43,6 +39,46 @@
 		{
 			"name": "multi_switch_interrupt",
 			"path": "interrupt\\multi_switch_interrupt"
+		},
+		{
+			"name": "timer_led_blink",
+			"path": "timer\\timer_led_blink"
+		},
+		{
+			"name": "timer_multi_led",
+			"path": "timer\\timer_multi_led"
+		},
+		{
+			"name": "pwm_led",
+			"path": "pwm\\pwm_led"
+		},
+		{
+			"name": "pwm_led_fading",
+			"path": "pwm\\pwm_led_fading"
+		},
+		{
+			"name": "pwm_multi_led_fading",
+			"path": "pwm\\pwm_multi_led_fading"
+		},
+		{
+			"name": "pwm_rgb_led",
+			"path": "pwm\\pwm_rgb_led"
+		},
+		{
+			"name": "spi_sd_read",
+			"path": "spi\\spi_sd_read"
+		},
+		{
+			"name": "spi_sdcard_files",
+			"path": "spi\\spi_sdcard_files"
+		},
+		{
+			"name": "uart_led",
+			"path": "uart\\uart_led"
+		},
+		{
+			"name": "adc_pot_read",
+			"path": "adc\\adc_pot_read"
 		}
 	],
 	"settings": {
